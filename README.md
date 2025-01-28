@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kuskarina
 - 👀 I’m interested in Music, Litature, History, Science
 - 🌱 I’m my skills include Python, C#, C, C++, JS
-- 💞️ I’m looking to collaborate on Data Science, Automation
+- 💞️ I’m looking to collaborate on Data Science, Automation, Video Games, and more!
 - 📫 How to reach me Discord: @kuskieishere
 
 <!---
